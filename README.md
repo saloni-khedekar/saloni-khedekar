@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I’m a tech enthusiast with a passion for **Machi
 
 ### 📫 How to Reach Me
 - **Email**: [salonikhedekar2513@gmail.com](salonikhedekar2513@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/saloni-khedekar-9bb444305/)
+- **LinkedIn**: [saloni-khedekar](https://www.linkedin.com/in/saloni-khedekar-9bb444305/)
 
 ### 😄 Pronouns
 - She/Her
@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I’m a tech enthusiast with a passion for **Machi
 
 ## Projects
 Check out my projects:
-- [Automated Structural Damage Detection](https://github.com/your-username/structural-damage-detection)
+- [Automated Structural Damage Detection](https://github.com/saloni-khedekar/Automated-Structural-Damage-Detection)
 - [Hindi Text Summarization](https://github.com/your-username/hindi-text-summarization)
 
 ## Connect With Me
