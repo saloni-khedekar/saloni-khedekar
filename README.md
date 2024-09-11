@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I’m a tech enthusiast with a passion for **Machi
 ## Projects
 Check out my projects:
 - [Automated Structural Damage Detection](https://github.com/saloni-khedekar/Automated-Structural-Damage-Detection)
-- [Hindi Text Summarization](https://github.com/your-username/hindi-text-summarization)
+- [Hindi Text Summarization](https://github.com/saloni-khedekar/Hindi-Text-Summarization)
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-khedekar-9bb444305/)
